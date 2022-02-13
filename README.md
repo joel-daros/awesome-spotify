@@ -1,5 +1,8 @@
 # Spotify Connected App
 
+Frontend: React
+
+Backend: Node.js / Express (Spotify API consumption)
 
 
 https://user-images.githubusercontent.com/992049/145267161-fdad2af2-c99f-4937-bfe9-fc2eb8af0197.mov
